@@ -1,0 +1,5 @@
+{
+  "editor.formatOnSave": true,
+  "editor.snippetSuggestions": "top"
+  // "prettier.printWidth": 9999
+}
